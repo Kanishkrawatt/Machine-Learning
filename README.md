@@ -1,4 +1,17 @@
 # RelationShip Between AI vs ML vs Deep Learning
+<img src="./Props/AIvsMLvsDL.png" >
+
+# What is AI 
+Artificial Intelligence is a branch of Computer Science that is concerned with building smart & intelligent Machines
+
+# What is ML
+Machine learning is a technique to implement AL that can learn from the data by themselves without being explicitly programmed.
+
+# What is DL
+Deep Learning is a subfield of Machine Learning that uses Artificial Neural Networks to learn from the data
+
+
+
 
 # Machine-Learning
 
